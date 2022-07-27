@@ -2,7 +2,7 @@
 
 I'm Felipe and I'm a Java developer
 
-<a href="https://www.linkedin.com/in/felipe-zmata/"><img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" style="width:60px;height:60px;"></a>
+<a href="https://www.linkedin.com/in/felipe-zmata/"><img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" style="width:50px;height:55px;"></a>
 
 ---------------
 
