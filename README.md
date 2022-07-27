@@ -1,8 +1,8 @@
 ### Hi, there 👋
 
-I'm Felipe Gustavo, I'm a Java developer
+I'm Felipe Gustavo and I'm a Java developer
 
-----------------------------------------------
+---------------
 
 <!--
 
