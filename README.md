@@ -1,8 +1,11 @@
 ### Hi, there 👋
 
+I'm Felipe Gustavo, I'm a Java developer
+
+----------------------------------------------
+
 <!--
 
-I'm Felipe Gustavo, I'm a Java developer
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning ...
