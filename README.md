@@ -2,6 +2,8 @@
 
 I'm Felipe Gustavo and I'm a Java developer
 
+<a href="https://www.linkedin.com/in/felipe-zmata/">https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png</a>
+
 ---------------
 
 <!--
