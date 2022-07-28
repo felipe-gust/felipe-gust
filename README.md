@@ -1,18 +1,13 @@
 <h3>
-  Hi, there &#9996;
+  <p>Hi, there &#9996;</p>
 </h3>
-<br>
-
-I'm Felipe and I'm a Java developer.
-<br>
-
+<p>I'm Felipe and I'm a Java developer.</p>
 <hr>
 
 <h3>
-  You can find me on:
+  <p> You can find me on:
 </h3>
-<a href="https://www.linkedin.com/in/felipe-zmata/"><img src="https://www.pngitem.com/pimgs/m/498-4987196_linkedin-logo-png-linkedin-in-icon-transparent-png.png"  style="width: 30px; height: 30px; max-width: 100%;"></a>
-
+<a href="https://www.linkedin.com/in/felipe-zmata/"><img src="https://www.pngitem.com/pimgs/m/498-4987196_linkedin-logo-png-linkedin-in-icon-transparent-png.png"  style="width: 30px; height: 30px; max-width: 100%;"></a></p>
 <hr>
 
 <h3>
