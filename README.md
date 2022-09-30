@@ -16,7 +16,7 @@
   <img align="center" alt="fe-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="fe-postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="fe-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <br><br>
+  <p> </p>
   <img align="center" alt="fe-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="fe-eclipse" src="https://img.shields.io/badge/-ECLIPSE-0B0B61?logo=eclipseide&logoColor=white&style=for-the-badge">
 </div>
