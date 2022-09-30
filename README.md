@@ -7,7 +7,7 @@
 <h3>
 <p>&#128187; Technologies </p>
 </h3>
-<div>
+<p dir="auto">
   <img align="center" alt="fe-java" src="https://img.shields.io/badge/-JAVA-FF8000?logo=java&logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-springboot" src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="fe-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -18,7 +18,7 @@
   <img align="center" alt="fe-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="fe-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="fe-eclipse" src="https://img.shields.io/badge/-ECLIPSE-0B0B61?logo=eclipseide&logoColor=white&style=for-the-badge">  
-</div>
+</p>
 <hr>
 
 <h3>
