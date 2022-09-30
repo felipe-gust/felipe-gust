@@ -8,7 +8,7 @@
 <p>&#128187; Technologies </p>
 </h3>
 <p dir="auto">
-  <img align="center" alt="fe-java" src="https://img.shields.io/badge/-JAVA-FF8000?logo=java&logoColor=white&style=for-the-badge">
+  <img align="center" alt="fe-java" src="https://img.shields.io/badge/-JAVA-FF8000?logo=java&logoColor=white&style=for-the-badge">-
   <img align="center" alt="fe-springboot" src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="fe-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="fe-html" src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white">
