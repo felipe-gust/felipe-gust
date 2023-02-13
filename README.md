@@ -1,6 +1,7 @@
 <h3>
-  <p>Hi, there &#9996;</p>
+  <p>Olá &#9996;</p>
 </h3>
+<p>Me chamo Felipe e sou um Desenvolvedor Java.</p><br>
 <p>I'm Felipe and I'm a Java developer.</p>
 <hr>
 
