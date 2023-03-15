@@ -8,8 +8,8 @@
 <p>&#128187; Tecnologias </p>
 </h3>
 <div>
-  <!--<img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=white&style=for-the-badge">
-  <img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=white&style=for-the-badge">-->
+  <!--<img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=white&style=for-the-badge">-->
+  <img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-512BD4?logo=.NET&logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-java" src="https://img.shields.io/badge/-JAVA-FF8000?logo=java&logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-springboot" src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="fe-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black">
