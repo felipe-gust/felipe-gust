@@ -1,14 +1,14 @@
 <h3>
   <p>Olá &#9996;</p>
 </h3>
-<p>Me chamo Felipe e sou um Desenvolvedor Java.</p><br>
-<p>I'm Felipe and I'm a Java developer.</p>
+<p>Me chamo Felipe e sou um Desenvolvedor C# ou .NET.</p><br>
 <hr>
 
 <h3>
 <p>&#128187; Tecnologias // Technologies </p>
 </h3>
 <div>
+   <img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/dotnet>
   <img align="center" alt="fe-java" src="https://img.shields.io/badge/-JAVA-FF8000?logo=java&logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-springboot" src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="fe-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black">
@@ -16,7 +16,7 @@
   <img align="center" alt="fe-css" src="https://img.shields.io/badge/CSS-0000FF?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="fe-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="fe-postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="fe-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="fe-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
   <p></p>
   <img align="center" alt="fe-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=black">
   <img align="center" alt="fe-eclipse" src="https://img.shields.io/badge/-ECLIPSE-0B0B61?logo=eclipseide&logoColor=white&style=for-the-badge">
