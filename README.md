@@ -1,7 +1,7 @@
 <h3>
   <p>Olá &#9996;</p>
 </h3>
-<p>Me chamo Felipe e sou um Desenvolvedor C# ou .NET.</p><br>
+<p><h1>Sou um desenvolvedor C#, ou .NET, voltado para aplicações Web.</p></h1><br>
 <hr>
 
 <h3>
