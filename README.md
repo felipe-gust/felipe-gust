@@ -1,8 +1,8 @@
 <h3>
   <p>Olá</p>
 </h3>
-<p><h4>Sou um desenvolvedor backend C#, ou .NET, voltado para aplicações Web.<br>
-Aqui você pode acompanhar meu projetos pessoais atuais e mais antigos &#9996; </h4></p>
+<p><h3>Sou um desenvolvedor backend C#, ou .NET, voltado para aplicações Web.<br>
+Aqui você pode acompanhar meu projetos pessoais atuais e mais antigos &#9996; </h3></p>
 <hr>
 
 <h3>
