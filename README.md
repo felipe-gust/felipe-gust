@@ -1,8 +1,8 @@
 <h3>
-  <p>Olá </p>
+  <p>Olá</p>
 </h3>
 <p><h5>Sou um desenvolvedor C#, ou .NET, voltado para aplicações Web.<br>
-Aqui você pode acompanhar meu projetos pessoais atuais e mais antigos</h5> &#9996; </p>
+Aqui você pode acompanhar meu projetos pessoais atuais e mais antigos &#9996; </h5></p>
 <hr>
 
 <h3>
