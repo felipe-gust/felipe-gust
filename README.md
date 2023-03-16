@@ -2,7 +2,7 @@
   <p>Olá</p>
 </h2>
 <p><h3>Sou um desenvolvedor backend C#, ou .NET, voltado para aplicações Web.<br>
-Aqui você pode acompanhar meu projetos pessoais atuais e mais antigos &#9996; </h3></p>
+Aqui você pode acompanhar meu projetos pessoais atuais e antigos &#9996; </h3></p>
 <hr>
 
 <h3>
