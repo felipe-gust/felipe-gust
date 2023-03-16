@@ -21,7 +21,6 @@ Aqui você pode acompanhar meu projetos pessoais atuais e mais antigos &#9996; <
   <img align="center" alt="fe-springboot" src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="fe-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="fe-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=black">
-  <img align="center" alt="fe-eclipse" src="https://img.shields.io/badge/-ECLIPSE-0B0B61?logo=eclipseide&logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <hr>
