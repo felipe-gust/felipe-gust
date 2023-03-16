@@ -9,7 +9,7 @@ Aqui você pode acompanhar meu projetos pessoais atuais e mais antigos &#9996; <
 <p>&#128187; Tecnologias </p>
 </h3>
 <div>
-  <img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-blueviolet?logo=CSHARP&logoColor=white&style=for-the-badge">
+  <img alt="fe-dotnet" src="https://img.shields.io/badge/-C&num-blueviolet?logo=csharp&logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-.NET-512BD4?logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-java" src="https://img.shields.io/badge/-JAVA-FF8000?logo=java&logoColor=white&style=for-the-badge">  
   <img align="center" alt="fe-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black">
