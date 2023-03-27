@@ -6,9 +6,10 @@ Aqui você pode acompanhar meu projetos pessoais atuais e antigos &#9996; </h3><
 <hr>
 
 <h3>
-<p>&#128187; Tecnologias </p>
+<p>&#128187; Tecnologias que eu uso </p>
 </h3>
 <div>
+  <img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-ASP.NET-white?logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-CSHARP-blueviolet?logo=csharp&logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-dotnet" src="https://img.shields.io/badge/-.NET-512BD4?logoColor=white&style=for-the-badge">
   <img align="center" alt="fe-html" src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white">
