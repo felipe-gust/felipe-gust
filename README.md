@@ -19,7 +19,7 @@ Aqui você pode acompanhar meu projetos pessoais atuais e antigos &#9996; </h3><
   <img align="center" alt="fe-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black"> 
   <p></p>
   <!--<img align="center" alt="fe-springboot" src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">-->
-  <img align="center" alt="fe-mysql" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=important">
+  <img align="center" alt="fe-mysql" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img align="center" alt="fe-postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="fe-postman" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="fe-github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
